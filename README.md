@@ -1,1 +1,1 @@
-"Hello This Is Text From Branch Feature1" 
+"This Is Text from Branch feature2" 
